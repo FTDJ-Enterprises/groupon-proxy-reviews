@@ -1,0 +1,9 @@
+.picture-shipping {
+    display: flex;
+    flex-direction: row;
+}
+
+#shipping-option {
+    width: 33%;
+    float: left;
+}
