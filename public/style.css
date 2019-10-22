@@ -6,4 +6,17 @@
 #shipping-option {
     width: 33%;
     float: left;
+    height: auto;
+}
+
+#product-detail {
+    width: 100%;
+}
+
+#slide-show {
+    padding: 0px 20px 0px 12px;
+}
+
+h1 {
+    padding: 0px 8px 0px 0px;
 }
