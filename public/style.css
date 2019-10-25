@@ -3,20 +3,28 @@
     flex-direction: row;
 }
 
+body {
+    padding: 0 30px 10px 30px
+}
+
 #shipping-option {
-    width: 33%;
+    width: 380px;
     float: left;
-    height: auto;
+    height: 100%;
 }
 
 #product-detail {
-    width: 100%;
+    width: 720px;
 }
 
 #slide-show {
     padding: 0px 20px 0px 12px;
 }
 
+#customer-also-bought {
+    width: 1000px
+}
+
 h1 {
-    padding: 0px 8px 0px 0px;
+    padding: 0px 20px;
 }
