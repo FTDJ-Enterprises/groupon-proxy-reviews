@@ -19,6 +19,7 @@
   "homepage": "https://github.com/FTDJ-Enterprises/groupon-proxy-reviews#readme",
   "dependencies": {
     "axios": "^0.19.0",
+    "compression": "^1.7.4",
     "express": "^4.17.1",
     "path": "^0.12.7"
   },
